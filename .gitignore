@@ -1,0 +1,17 @@
+# Database files
+*.db
+bot_database.db
+
+# Configuration files
+config.json
+cookies.json
+
+# Log files
+*.log
+sportschecker_parser.log
+
+# Screenshots directory
+screenshots/
+
+# OS files
+.DS_Store
